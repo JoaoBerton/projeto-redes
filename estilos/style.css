@@ -20,6 +20,14 @@ main {
    height: 100vh;
     
 }
+section #home {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 470px;
+    width: 268px;
+    
+}
 #celular {
     position: absolute;
     top: 50%;
