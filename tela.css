@@ -1,0 +1,23 @@
+@charset "UTF-8";
+* {
+            padding: 0px;
+            margin: 0px;
+        }
+        img {
+            width: 100vw;
+        }
+        a {
+            background-color: coral;
+            padding: 30px;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+            margin-top: -5px;
+        }
+        a:hover {
+            background-color: crimson;
+            color: aliceblue;
+        }
+        ::-webkit-scrollbar {
+            width: 0px;
+        }
